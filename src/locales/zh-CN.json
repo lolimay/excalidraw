@@ -44,6 +44,7 @@
     "exportEmbedScene": "包含画布数据",
     "exportEmbedScene_details": "画布数据将被保存到导出的 PNG/SVG 文件，以便恢复。\n将会增加导出的文件大小。",
     "addWatermark": "添加 “使用 Excalidraw 创建” 水印",
+    "handChinese": "中文手写",
     "handDrawn": "手写",
     "normal": "正常",
     "code": "代码",
