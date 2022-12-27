@@ -1,17 +1,18 @@
 <div align="center" style="display:flex;flex-direction:column;">
-  <a href="https://excalidraw.com">
-    <img width="540" src="./public/og-image-sm.png" alt="Excalidraw logo: Sketch handrawn like diagrams." />
+  <a href="https://app.boardx.us">
+    <img width="540" src="./docs/logo.svg" alt="Excalidraw logo: Sketch handrawn like diagrams." />
   </a>
-  <h3>Virtual whiteboard for sketching hand-drawn like diagrams.<br>Collaborative and end-to-end encrypted.</h3>
+  <h3>Next Generation Collaborative Platform built on Web3 and AIGC</h3>
   <p>
-    <a href="https://twitter.com/Excalidraw">
-      <img alt="Follow Excalidraw on Twitter" src="https://img.shields.io/twitter/follow/excalidraw.svg?label=follow+excalidraw&style=social&logo=twitter">
-    </a>
-    <a target="_blank" href="https://crowdin.com/project/excalidraw">
-      <img src="https://badges.crowdin.net/excalidraw/localized.svg">
+    <a href="https://twitter.com/intent/follow?screen_name=boardxus" target="_blank">
+      <img alt="Follow BoardX on Twitter" src="https://img.shields.io/twitter/follow/boardxus.svg?label=follow+BoardX&style=social&logo=twitter">
     </a>
   </p>
-  <p>Ask questions or hang out on our <a target="_blank" href="https://discord.gg/UexuTaE">discord.gg/UexuTaE</a>.</p>
+  <p style="display:flex;align-items:center;justify-content: center;">Ask questions or hang out on our 
+    <a href="https://discord.gg/RBs5kHC8cS" target="_blank">
+      <img alt="Join Discord" style="margin-left:5px;" src="https://img.shields.io/discord/1052420232704184350?style=for-the-badge&label=Discord+Server">
+    </a>
+</p>
 </div>
 
 ## Try it now
